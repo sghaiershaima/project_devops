@@ -93,7 +93,7 @@ The pipeline operates fully on the local machine:
 - CI builds, analyzes, scans, and packages the application  
 - Docker image is rebuilt and deployed locally  
 
-*(Insert diagram here if needed)*
+![Architecture](devopsProcess.png)
 
 ---
 
